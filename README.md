@@ -16,7 +16,7 @@ C'est très simple !
 
 Télécharger GIT (si ce n'est pas déjà fait) sur https://git-scm.com/downloads
 
-![](Screenshot_1.png)
+![] (Screenshot_1.png)
 
 *2ère étape:*
 
