@@ -16,7 +16,7 @@ C'est très simple !
 
 Télécharger GIT (si ce n'est pas déjà fait) sur https://git-scm.com/downloads
 
-[Imgur](https://i.imgur.com/7qroCFS.png)
+![](https://i.imgur.com/7qroCFS.png)
 
 *2ère étape:*
 
