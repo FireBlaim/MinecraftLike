@@ -7,3 +7,21 @@ Ce n'est qu'a utilisé quand le programme ne fonctionne pas.
 Merci à tous de suivre cette série. Cela me fait énormement plaisir.
 
 Allez...Ciao !!
+
+# Comment télécharger les fichiers du jeu ?
+
+C'est très simple !
+
+*1ère étape:*
+
+Télécharger GIT (si ce n'est pas déjà fait) sur https://git-scm.com/downloads
+
+![](Screenshot_1.png)
+
+*2ère étape:*
+
+Lancez git bash puis lancez la commande :
+
+> cd Desktop && git clone https://github.com/FireBlaim/MinecraftLike.git
+
+Cela va vous télécharger les fichiers sur le bureau... et c'est tout!
